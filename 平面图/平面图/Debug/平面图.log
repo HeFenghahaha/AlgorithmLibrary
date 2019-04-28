@@ -1,0 +1,9 @@
+﻿  源.cpp
+d:\project\平面图\平面图\源.cpp(43): error C2660: “fopen_s”: 函数不接受 2 个参数
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(97): note: 参见“fopen_s”的声明
+d:\project\平面图\平面图\源.cpp(54): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char (*)[400]”
+  d:\project\平面图\平面图\源.cpp(54): note: 此参数用作缓冲区大小
+d:\project\平面图\平面图\源.cpp(54): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  d:\project\平面图\平面图\源.cpp(54): note: 占位符和其参数预计 5 可变参数，但提供的却是 3 参数
+  d:\project\平面图\平面图\源.cpp(54): note: 缺失的可变参数 4 为格式字符串“%s”所需
+  d:\project\平面图\平面图\源.cpp(54): note: 此参数由转换说明符使用
